@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj": {}
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj": {}
   },
   "projects": {
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj": {
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
+        "projectUniqueName": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
         "projectName": "PassIn.Api",
-        "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
+        "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\PassIn.Api.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\obj\\",
+        "outputPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
-                "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj"
+              "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
+                "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj"
               },
               "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
                 "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj"
               },
-              "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
-                "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+              "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+                "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
+        "projectUniqueName": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
         "projectName": "PassIn.Application",
-        "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
+        "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\PassIn.Application.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\obj\\",
+        "outputPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -106,11 +106,11 @@
               "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj": {
                 "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Communication\\PassIn.Communication.csproj"
               },
-              "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
-                "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
+              "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+                "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj"
               },
-              "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
-                "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj"
+              "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+                "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj"
               }
             }
           }
@@ -207,14 +207,14 @@
         }
       }
     },
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectUniqueName": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
         "projectName": "PassIn.Exceptions",
-        "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\obj\\",
+        "outputPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -265,14 +265,14 @@
         }
       }
     },
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectUniqueName": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
         "projectName": "PassIn.Infrastructure",
-        "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+        "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\obj\\",
+        "outputPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"

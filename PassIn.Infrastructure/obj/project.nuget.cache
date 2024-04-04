@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2uJyqbEt/SOUPjP0tvakXTuNC8UcpoZ3rVPVHPpfQgZFV4v3H3jYsndJiEK8r0WjUlus03/C7sapxpkO5LMCVg==",
+  "dgSpecHash": "6ay/0a65elTbGX/muCW0luHZVLaKmEZKeDA0l0KEyKQriftc/CYvMo+toTkasaZcuy4U1LptYpVak1VzKslS3w==",
   "success": true,
-  "projectFilePath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
+  "projectFilePath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Infrastructure\\PassIn.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leticia\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.3\\microsoft.data.sqlite.core.8.0.3.nupkg.sha512",
     "C:\\Users\\Leticia\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",

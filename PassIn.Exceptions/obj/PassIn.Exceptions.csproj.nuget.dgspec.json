@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {}
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {}
   },
   "projects": {
-    "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
+    "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectUniqueName": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
         "projectName": "PassIn.Exceptions",
-        "projectPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
+        "projectPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\PassIn.Exceptions.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "c:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\obj\\",
+        "outputPath": "C:\\INFORMATIC\\C#\\Rocketseat_curso\\PassIn\\PassIn.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"
